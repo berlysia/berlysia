@@ -1,6 +1,7 @@
-I'm berlysia. A Web Developer in Japan, with a particular focus on the frontend.
+I'm berlysia, a web developer based in Japan with a particular focus on frontend technologies.
 
-I'm very interested in vertical writing on the web using CSS, and I'm also passionate about spreading awareness of related specifications.
+I advocate for vertical writing on the web through CSS, with a focus on promoting broader awareness and adoption of its specifications.
 
-I am one of the organizers of "[TSKaigi](https://tskaigi.org/)", a TypeScript conference held in Japan.
+I’m a founding organizer of [TSKaigi](https://tskaigi.org/), a leading TypeScript conference in Japan.
 
+I work at [DWANGO Co., Ltd.](https://dwango.co.jp/), focusing on educational projects such as [ZEN Study](https://www.nnn.ed.nico/), in association with [N High School Group](https://nnn.ed.jp/) and [ZEN University](https://zen.ac.jp/).
